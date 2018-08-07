@@ -2,7 +2,7 @@
   "name": "framework-arduinonordicnrf5",
   "description": "Arduino framework for Nordic nRF5 platform",
   "url": "https://github.com/Things-Of-The-Internet/arduino-nRF5",
-  "version": "0.5.1a",
+  "version": "0.5.1-alt",
   "repository": {
     "type": "git",
     "url": "https://github.com/Things-Of-The-Internet/arduino-nRF5.git"
